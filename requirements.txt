@@ -1,4 +1,5 @@
-Flask
-google-auth
-google-auth-oauthlib
-requests
+
+Flask==2.3.2
+requests==2.31.0
+google-auth==2.22.0
+gunicorn==21.0.0
